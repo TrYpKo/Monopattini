@@ -1,0 +1,71 @@
+body{
+  background: url(img/background.jpg);
+  background-size: cover;
+}
+
+.bodyback{
+  border-radius: 25px;
+  background: #0a0a0a;
+  padding: 30px;
+  width: 1100px;
+  height: 800px;
+  opacity: 0.5;
+  margin: auto;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.green-text{
+  color: green;
+  text-align: center;
+}
+
+.nav-back{
+  background-color: green;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+
+.textwhite{
+  color: white;
+}
+
+.text-button{
+  display: inline-block;
+  margin: 5px;
+}
+
+.text-sotto{
+  margin: 0px;
+}
+
+.text-sotto2{
+  margin: 5px;
+}
+
+.barracaricagino{
+  border-radius: 10px;
+  background: #e5be01;
+  padding: 15px;
+  width: 300px;
+}
+
+.barracaricamike{
+  border-radius: 10px;
+  background: #00bb2d;
+  padding: 15px;
+  width: 600px;
+}
+
+.barracaricafede{
+  border-radius: 10px;
+  background: #ff0000;
+  padding: 15px;
+  width: 150px;
+}
